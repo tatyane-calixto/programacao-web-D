@@ -1,0 +1,11 @@
+Criar banco de dados [x]
+Criar tabelas de banco de dados [x]
+Arquivo de conexão com Banco de Dados [x] 
+Mudar arquivo autenticar-login [x]
+Cadastrar usuario [x]
+Cadastrar notas [ ]
+Consultar notas dos alunos no Banco de Dados[ ]
+Mostrar histórico de notas dos alunos [ ]
+
+
+

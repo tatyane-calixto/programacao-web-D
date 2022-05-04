@@ -9,6 +9,9 @@
   <li>
      <p>  Aula 03 - Sistema de controle de notas (HTML + CSS + arquivo)   &#9989;</p>
   </li>
+  <li>
+     <p>  Aula 04 - Sistema de controle de notas com Banco de Dados - Parte I   &#9989;</p>
+  </li>
 </ul>
   
 

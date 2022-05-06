@@ -1,0 +1,14 @@
+Criar banco de dados [x]
+Criar tabelas de banco de dados [x]
+Arquivo de conexão com Banco de Dados [x] 
+Mudar arquivo autenticar-login [x]
+Cadastrar usuario [x]
+Cadastrar notas [x]
+(php) Consultar notas dos alunos no Banco de Dados[x]
+Mostrar histórico de notas dos alunos [x]
+Mastrar a tabela de faltas (banco de Dados) [x]
+Fazer um form para adicionar as faltas [X] 
+Cadastrar as faltas no sistema [ ]
+
+
+

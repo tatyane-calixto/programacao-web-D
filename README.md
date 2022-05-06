@@ -12,6 +12,9 @@
   <li>
      <p>  Aula 04 - Sistema de controle de notas com Banco de Dados - Parte I   &#9989;</p>
   </li>
+   <li>
+     <p>  Aula 05 - Sistema de controle de notas com Banco de Dados - Parte II  &#9989;</p>
+  </li>
 </ul>
   
 

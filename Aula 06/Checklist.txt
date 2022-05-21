@@ -1,0 +1,15 @@
+Fazer um form para adicionar as faltas [X] 
+Cadastrar as faltas no sistema [X]
+Apresentar as faltas no sistema [X]
+---------------------revisão-------------------------------
+construir um formulário de cadastro [X]
+construir um formulário de login [X]
+criar banco de dados com tabelas de cadastro [X]
+fazer integração com banco de dados do cadastro [X]
+fazer integração com banco de dados do login [X]
+
+
+
+
+
+
